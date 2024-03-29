@@ -1,6 +1,8 @@
   =>  Template Name    : JobEntry - Job Portal Website Template
+  =>  Starting with Landing page: intro.html
+  =>  Two login pages: Admin and the user
 
-  =>  Template Link    : https://htmlcodex.com/job-portal-website-template
+  
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
